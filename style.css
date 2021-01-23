@@ -1,0 +1,16 @@
+body {
+     background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
+
+.iconDetails {
+    margin-left: 2%;
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+
+.container2 {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+}
